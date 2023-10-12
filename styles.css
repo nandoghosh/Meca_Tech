@@ -1,0 +1,53 @@
+.text-primary-color{
+    color: #0c2e8a;
+}
+
+.text-secondary-color{
+    color: #50d8af;
+}
+
+.banner-img-1{
+    background-image: url(images/carousel/1.jpg);
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+.banner-img-2{
+    background-image: url(images/carousel/2.jpg);
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+.banner-img-3{
+    background-image: url(images/carousel/3.jpg);
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+.banner-img-4{
+    background-image: url(images/carousel/4.jpg);
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+.banner-img-5{
+    background-image: url(images/carousel/5.jpg);
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+.btn-primary-color{
+    color: #ffffff;
+    background-color: #0c2e8a;
+}
+.btn-secondary-color{
+    color: #ffffff;
+    background-color: #50d8af;
+}
+
+.clients-img{
+    width: 150px;
+}
+.bg-primary-color{
+    background-color: #0c2e8a;
+}
+
+.border-primary-color{
+    border-color: #0c2e8a;
+}
